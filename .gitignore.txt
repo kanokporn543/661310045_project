@@ -1,3 +1,0 @@
-zab.txt
-__pycache__
-*.pyc
